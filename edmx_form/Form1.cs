@@ -9,6 +9,11 @@ using System.Configuration;
 
 namespace edmx_form
 {
+    /// <summary>
+    /// 2017年3月11日21:42:34 
+    /// wzc
+    /// 修正
+    /// </summary>
     public partial class Form1 : Form
     {
         private NameValueCollection _AppSettings;
